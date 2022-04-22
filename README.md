@@ -1,6 +1,6 @@
 # ThetaKVM
-KeyVault Manager
-For those who just want to run the app, download the file: ThetaKVM_Win64_Release.zip 
+
+For those who just wish to run the app, download and extract the zip-file above: ThetaKVM_Win64_Release.zip 
 
 ## Inspiration
 Parents, friends, loved ones and all those who have come to me late at night on Discord telling me they lost all their crypto and asking for help due to one reason or another.
